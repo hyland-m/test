@@ -6,8 +6,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: Blog
+title: Megan F. Hyland
 permalink: /
 ---
 
-Welcome to my blog!
+Welcome to my website!
