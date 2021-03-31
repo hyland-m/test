@@ -6,8 +6,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: Megan F. Hyland
+title: Welcome!
 permalink: /
 ---
 
-Welcome to my website!
+I am a third year PhD student in Policy Analysis and Management at Cornell University.
